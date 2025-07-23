@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anjan Giri
-- 🌱 I’m currently learning JavaScript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me - ahnjhan96@gmail.com
 
 <!---
